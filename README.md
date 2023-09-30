@@ -1,4 +1,4 @@
-# ![Akeops](https://github.com/Akeops/Akeops/blob/main/wallhaven-lmm9k2.jpg)
+# ![Akeops](https://github.com/Akeops/Akeops/blob/main/coverImage.PNG)
 
 ### Salut 👋
 
