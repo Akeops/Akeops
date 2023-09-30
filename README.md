@@ -1,4 +1,4 @@
-# ![Akeops](https://github.com/Akeops/Akeops/blob/main/coverImage.PNG)
+# ![Akeops](https://github.com/Akeops/Akeops/blob/main/headerImage.jpg)
 
 ### Salut 👋
 
