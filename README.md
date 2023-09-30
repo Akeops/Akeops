@@ -1,3 +1,3 @@
-# ![Akeops](https://github.com/Akeops/Akeops/blob/master/cover.png)
+# ![Akeops](https://github.com/Akeops/Akeops/blob/main/cover.png)
 
 
