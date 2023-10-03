@@ -17,8 +17,8 @@ N'hésitez pas à me contacter au cas ou vous voudriez me joindre [mail](mailto:
     </ul>
 </details>
 
-<a href="https://github.com/Akeops/github-readme-stats"><img align="" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akeops&layout=compact&theme=radical&hide_border=true"/></a>
+<a href="https://github.com/Akeops/github-readme-stats"><img align="" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akeops&show_icons=true&layout=compact&theme=radical&hide_border=true"/></a>
 
-![Akeops' GitHub stats](https://github-readme-stats.vercel.app/api?username=Akeops&show_icons=true&theme=transparent)
+![Akeops' GitHub stats](https://github-readme-stats.vercel.app/api?username=Akeops&show_icons=true&theme=radical)
 
 
