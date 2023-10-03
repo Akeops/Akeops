@@ -14,6 +14,7 @@ N'hésitez pas à me contacter au cas ou vous voudriez me joindre [mail](mailto:
       <li>Les bonnes pratiques HTML</li>
       <li>PHP avancé</li>
       <li>CSS avancé</li>
+      <li>A utiliser Bootstrap</li>
     </ul>
 </details>
 
