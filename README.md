@@ -2,7 +2,7 @@
 
 ### Salut 👋
 
-Je suis un développeur qui cherche à résoudre les problèmes du monde réél. J'ai la passion d'apprendre et de partager mes connaissances avec les autres 🔥
+Je suis un développeur qui cherche à résoudre les problèmes du monde réel. J'ai la passion d'apprendre et de partager mes connaissances avec les autres 🔥
 N'hésitez pas à me contacter au cas ou vous voudriez me joindre [mail](mailto:lalanne.andoni1@gmail.com) ou m'envoyer un message : 
 <a href="[https://linkedin.com/in/kunalshah017](https://www.linkedin.com/in/andoni-lalanne-berdouticq-240104179/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal shah" height="30" width="40" /></a>
 
