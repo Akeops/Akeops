@@ -14,8 +14,6 @@ Je suis un développeur qui cherche à résoudre les problèmes du monde réel. 
     </ul>
 </details>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akeops" alt="akeops" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andoni lalanne-berdouticq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andoni lalanne-berdouticq" height="30" width="40" /></a>
