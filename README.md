@@ -25,13 +25,3 @@ Je suis un développeur qui cherche à résoudre les problèmes du monde réel. 
 <h3 align="left">Stats:</h3>
 
 <a href="https://github.com/Akeops/github-readme-stats"><img align="" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akeops&show_icons=true&layout=compact&theme=radical&hide_border=true"/></a> ![Akeops' GitHub stats](https://github-readme-stats.vercel.app/api?username=Akeops&show_icons=true&theme=radical)
-
- name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ Akeops }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}}
