@@ -2,9 +2,9 @@
 
 <h3 align="left">A junior developer 🚀</h3>
 
-🇫🇷 - Je suis un développeur qui cherche à résoudre les problèmes du monde réel. J'ai la passion d'apprendre et de partager mes connaissances avec les autres 🔥
+ FR - Je suis un développeur qui cherche à résoudre les problèmes du monde réel. J'ai la passion d'apprendre et de partager mes connaissances avec les autres 🔥
 
-🇬🇧: - I'm a developer looking to solve real-world problems. I have a passion for learning and sharing my knowledge with others 🔥
+ EN - I'm a developer looking to solve real-world problems. I have a passion for learning and sharing my knowledge with others 🔥
 
 <details>
   <summary><strong>Ce que j'apprends/travaille ces jours-ci :</strong></summary>
