@@ -2,9 +2,9 @@
 
 <h3 align="left">A junior developer 🚀</h3>
 
- FR - Je suis un développeur qui cherche à résoudre les problèmes du monde réel. J'ai la passion d'apprendre et de partager mes connaissances avec les autres 🔥
+ <img src="drapeauFrance.png" alt="Drapeau france" width="20"> - Je suis un développeur passionné cherchant continuellement à améliorer mes compétences et à rester à jour avec les dernières technologies et les meilleures pratiques de développement 🔥
 
- EN - I'm a developer looking to solve real-world problems. I have a passion for learning and sharing my knowledge with others 🔥
+ <img src="drapeauUS.png" alt="Drapeau france" width="20"> - I am a passionate developer looking to continually improve my skills and stay up to date with the latest technologies and development best practices 🔥
 
 <details>
   <summary><strong>Ce que j'apprends/travaille ces jours-ci :</strong></summary>
