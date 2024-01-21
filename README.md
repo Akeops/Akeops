@@ -9,10 +9,8 @@
 <details>
   <summary><strong>Ce que j'apprends/travaille ces jours-ci :</strong></summary>
     <ul>
-      <li>Les bonnes pratiques HTML</li>
-      <li>PHP avancé</li>
-      <li>CSS avancé</li>
-      <li>A utiliser Bootstrap</li>
+      <li>Le clean code</li>
+      <li>JavaScript côté front et backend</li>
     </ul>
 </details>
 
