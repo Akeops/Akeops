@@ -6,14 +6,6 @@
 
  <img src="drapeauUS.png" alt="Drapeau france" width="20"> - I am a passionate developer looking to continually improve my skills and stay up to date with the latest technologies and development best practices 🔥
 
-<details>
-  <summary><strong>Ce que j'apprends/travaille ces jours-ci :</strong></summary>
-    <ul>
-      <li>Le clean code</li>
-      <li>JavaScript côté front et backend</li>
-    </ul>
-</details>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andoni lalanne-berdouticq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andoni lalanne-berdouticq" height="30" width="40" /></a>
